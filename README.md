@@ -3,6 +3,9 @@
 
 ### About me
 
+### 398 Blog Post
+[ZK Proofs](ZKProofs.md)
+
 ### Example Repositories:
 [Hello world](https://github.com/jacobhill247/hello-world)
 
