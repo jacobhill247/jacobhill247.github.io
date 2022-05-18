@@ -1,16 +1,17 @@
-## Jacob Hill
-#### Computer Science Student
+## Computer Science graduate with a background in human biology. Focus has been on networks and network security, distributed systems, mobile and web development. 
 
 ### About me
 
-### 398 Blog Post
+#### Education
+- B.S. Biology, Boise State University 
+- B.S. Computer Science, Boise State University
+
+#### Projects and School Work
+
+##### 398 Blog Post
 [ZK Proofs](ZKProofs.md)
 
-### Example Repositories:
+##### Example Repositories:
 [Hello world](https://github.com/jacobhill247/hello-world)
-
-### Education
-- B.S. Biology, Boise State University 
-- B.S. Computer Science, Boise State University (Expected graduation May 2022)
 
 Thank you for taking a look!
