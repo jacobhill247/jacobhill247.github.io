@@ -1,4 +1,5 @@
-## About me
+## Jacob Hill
+#### Full Stack Developer
 
 ### Computer Science graduate with a background in human biology. Focus has been on networks and network security, distributed systems, mobile and web development, bioinformatics and data science.
 
