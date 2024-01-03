@@ -1,13 +1,13 @@
-## Jacob Hill
-### Full Stack Developer
+# Jacob Hill
+## Full Stack Developer
 
-### Education
+## Education
 - B.S. Biology, Boise State University, 2019
 - B.S. Computer Science, Boise State University, 2022
 
-### Professional Experience
-##### Software Engineer - Part-time - Nov. 2022 – Current
-###### Flight Creative Agency - Boise, Idaho (Remote)
+## Professional Experience
+### Software Engineer - Part-time - Nov. 2022 – Current
+#### Flight Creative Agency - Boise, Idaho (Remote)
 - Currently working as a full stack engineer with PHP for a start up that is building tools to help real estate agents
 market and price properties.
 - Actively implementing front end changes with CSS, Tailwind CSS as well as vanilla JavaScript.
@@ -17,28 +17,29 @@ market and price properties.
 - Utilizing Docker and Laravel Sail for local development environment.
 
 
-##### Assistant Manager and Club Fitter - Part-time - Dec. 2022 – Current
-###### Wide World of Golf - Boise, ID
-• Responsible for receiving of merchandise with total inventory valued in the millions.
-• Designed and implemented a Python script to map out eBay sales to improve advertising budgeting.
-• Currently creating a mobile application with React Native to increase speed and accuracy of receiving inventory.
-• Created HTML and CSS templates for products to increase speed of eBay listing creation and listing consistency.
-• Communicated and built strong business rapport with customers, manufacturers and coworkers on a regular basis.
-• Answered any questions customers had about equipment, club fitting specifics, and order updates.
-• Opened store and balanced cash, managed up to 6 employees on occasion, closed store and entrusted with security
+### Assistant Manager and Club Fitter - Part-time - Dec. 2022 – Current
+#### Wide World of Golf - Boise, ID
+- Responsible for receiving of merchandise with total inventory valued in the millions.
+- Designed and implemented a Python script to map out eBay sales to improve advertising budgeting.
+- Currently creating a mobile application with React Native to increase speed and accuracy of receiving inventory.
+- Created HTML and CSS templates for products to increase speed of eBay listing creation and listing consistency.
+- Communicated and built strong business rapport with customers, manufacturers and coworkers on a regular basis.
+- Answered any questions customers had about equipment, club fitting specifics, and order updates.
+- Opened store and balanced cash, managed up to 6 employees on occasion, closed store and entrusted with security
 alarm codes.
 
-### Projects
-##### RMI CLI Application | Java, Distributed Systems, Computer Networks, Concurrency
-• Worked with a partner to design and create a Java Remote Method Invocation CLI application as a class project
+## Projects
+### RMI CLI Application | Java, Distributed Systems, Computer Networks, Concurrency
+- Worked with a partner to design and create a Java Remote Method Invocation CLI application as a class project
 that communicated through SSL.
-• Users could connect to server with authentication with information stored on a Redis
-• Utilized MD5 hashing, Java security policies, certificates, and RMI sockets.
-• Created Bash scripts for automated testing of functionality as well as creating clusters of Docker containers.
+- Users could connect to server with authentication with information stored on a Redis
+- Utilized MD5 hashing, Java security policies, certificates, and RMI sockets.
+- Created Bash scripts for automated testing of functionality as well as creating clusters of Docker containers.
 
-##### Credit Card Handoff Application | Javascript, React Native
-• Built custom components with React Native and used Google Firebase as a back end solution.
-• Application included authentication, image handling and utilized Expo Go as a development tool.
+### Credit Card Handoff Application | Javascript, React Native
+- Built custom components with React Native and used Google Firebase as a back end solution.
+- Application included authentication, image handling and utilized Expo Go as a development tool.
+
 
 
 
